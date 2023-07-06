@@ -6,7 +6,7 @@ Unlock Your Drive with Car Hub: Find, Rent, and Book Your Perfect Ride!
 
 ## Demo
 
-http://jesus-hernandezmoreno.github.io/car-hub
+https://car-hub-gold.vercel.app/
 
 Desktop:
 
